@@ -32,8 +32,9 @@
 def main():
 
     #To print something to the screen in Python.
-    print("\n Hello Python Multiverse! I'm new here but I'm excited to stick around :)\n\n")
+    print("\n Hello Python Multiverse! I'm making another change for practice purposes.\n\n")
 
+#then: git add [file name] --> git commit -m "[comments about change]" --> git push
 
 #Call the main function
 main()
